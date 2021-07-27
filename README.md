@@ -20,7 +20,7 @@ I have a limited online presence, but besides this GitHub profile, I do maintain
 * https://stackoverflow.com/story/jonlandrum
 * https://www.linkedin.com/in/jonlandrum
 
-## My Inspiration
+## Inspiration
 
 My interest in engineering started when I was a child while watching _Star Trek: The Next Generation_. I identified so completely with the characters Data and Geordi La Forge, and hoped to grow up to be just like them some day. Their calm under pressure and their absolute command of the ship's processes meant there was rarely a problem they couldn't solve. This early exposure led me on a path to becoming an engineer. I have been interested in all of the engineering professions since this time, but there was something about computers that mesmerized me the most. Perhaps that is because of the Computer aboard the _Enterprise_. The sheer processing power and the seemingly limitless supply of information it possessed was astounding. With the simplest request, all the knowledge of humanity was available to the ship's crew. Our HPC systems have a long way to go before they reach this point, but it is exciting to be part of the process!
 
