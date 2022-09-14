@@ -17,9 +17,9 @@ I employ the best tool for the job at hand. All of us have our preferences, and 
 ## Persona
 
 I have a limited online presence, but besides this GitHub profile, I do maintain these three other professional profiles:
-* https://gitlab.com/jonlandrum
-* https://stackoverflow.com/story/jonlandrum
-* https://www.linkedin.com/in/jonlandrum
+* [GitLab](https://gitlab.com/jonlandrum)
+* [Stack Overflow](https://stackoverflow.com/users/2386514/jonathan-e-landrum?tab=profile)
+* [LinkedIn](https://www.linkedin.com/in/jonlandrum)
 
 ## Inspiration
 
