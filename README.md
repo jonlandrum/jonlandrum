@@ -8,7 +8,13 @@ I'm not a ninja or a rock star. I hate hearing those terms applied to us. I'm an
 
 #### Philosophy
 
-I believe firmly in the Unix philosophy<sup>[1]</sup>: Write programs that do one thing and do it well; Choose to fail early in the development process; and Write programs that work together seamlessly. The "text streams" part of McIlroy's original list doesn't always apply today, but the rest certainly does. And in keeping with the _spirit_ of that fourth point, programs should be able to communicate effectively through APIs without regard to the language used to write them. To this end, writing software is infrequently a one-time event; we must revise and refactor continuously. In the words of Blaise Pascal, "I would have written a shorter letter, but I did not have the time".
+I believe firmly in the Unix philosophy<sup>[1]</sup>:
+
+* Write programs that do one thing and do it well;
+* Choose to fail early in the development process; and
+* Write programs that work together seamlessly.
+    
+The "text streams" part of McIlroy's original list doesn't always apply today, but the rest certainly does. And in keeping with the _spirit_ of that point, programs should be able to communicate effectively through APIs without regard to the language used to write them. To this end, writing software is infrequently a one-time event; we must revise and refactor continuously. In the words of Blaise Pascal, "I would have written a shorter letter, but I did not have the time".
 
 #### Apparatus
 
