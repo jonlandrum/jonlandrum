@@ -22,10 +22,11 @@ I employ the best tool for the job at hand. All of us have our preferences, and 
 
 ## Persona
 
-I have a limited online presence, but besides this GitHub profile, I do maintain these three other professional profiles:
+I have a limited online presence, but besides this GitHub profile, I do maintain these four other professional profiles:
 * [GitLab](https://gitlab.com/jonlandrum)
-* [Stack Overflow](https://stackoverflow.com/users/2386514/jonathan-e-landrum?tab=profile)
 * [LinkedIn](https://www.linkedin.com/in/jonlandrum)
+* [ORCiD](https://orcid.org/0000-0001-7918-8656)
+* [Stack Overflow](https://stackoverflow.com/users/2386514/jonathan-e-landrum?tab=profile)
 
 ## Inspiration
 
