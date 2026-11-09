@@ -25,7 +25,7 @@ I employ the best tool for the job at hand. All of us have our preferences, and 
 I have a limited online presence, but besides this GitHub profile, I do maintain these three other professional profiles:
 * [GitLab](https://gitlab.com/jonlandrum)
 * [LinkedIn](https://www.linkedin.com/in/jonlandrum)
-* [Stack Overflow](https://stackoverflow.com/users/2386514/jonathan-e-landrum?tab=profile)
+* [Stack Overflow](https://stackoverflow.com/users/jonlandrum?tab=profile)
 
 Additionally, I maintain these two research profiles:
 * [Google Scholar](https://scholar.google.com/citations?user=d3cCgjYAAAAJ)
